@@ -30,6 +30,8 @@ Será que ao final dessa corrida frenética pelas ruas pixeladas da cidade, o zu
 
 Ou será apenas mais um corpo perdido na esteira da loucura?
 
+> Referência: *The Walking Dead Agreste*, série de Dinah Moraes.
+
 **2.1 Funcionalidades principais** 
 
 * **Motor do jogo:**  
@@ -91,9 +93,10 @@ corrida/
 
 
 **4\. Requisitos técnicos**  
-**4.1 requirements.txt**
+ **4.1 requirements.txt**
 ``` 
   python==3.12  
   pygame==2.6.0
-``` 
+```
+
 
