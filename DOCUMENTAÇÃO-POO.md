@@ -91,7 +91,9 @@ corrida/
 
 
 **4\. Requisitos técnicos**  
-**4.1 requirements.txt**  
-python==3.12  
-pygame==2.6.0
+**4.1 requirements.txt**
+``` 
+  python==3.12  
+  pygame==2.6.0
+``` 
 
