@@ -46,18 +46,20 @@ Ou será apenas mais um corpo perdido na esteira da loucura?
   * Comando de voz.  
   * Easter egg.
 
-## **2.2 Arquitetura do Código**
-
+### 2.2 Arquitetura do Código**
+``` 
 corrida/  
 ├── main.py            \# Ponto de entrada (inicialização do jogo)  
 ├── game.py            \# Lógica principal (estado do jogo, loop principal)  
 ├── obstaculos.py          \# Definição dos obstáculos e direção  
 ├── ui/                \# Interface do usuário  
- │   ├── render.py      \# Renderização gráfica (Pygame)  
- │   └── sounds.py      \# Gerenciamento de áudio  
- |    
+│   ├── render.py      \# Renderização gráfica (Pygame)  
+│   └── sounds.py      \# Gerenciamento de áudio  
+|    
 ├── config.py      \# Constantes (imagens, tamanhos)  
 └── scores.py      \# Manipulação de high scores
+``` 
+
 
 **3\. Etapas de entrega (Cronograma detalhado)**  
 **Etapa 1: Criação das artes ( Semana 1 a 4\)** 
