@@ -32,6 +32,9 @@ Ou será apenas mais um corpo perdido na esteira da loucura?
 
 > Referência: *The Walking Dead Agreste*, série de Dinah Moraes.
 
+> **Introdução no jogo:**
+Antes do jogador assumir o controle, será exibido uma sequência de imagens que apresenta um pouco dessa história. Essa introdução visual irá funcionar como uma espécie de "cena de abertura", ajudando a criar um clima do jogo e situar o jogador no universo narrativo do projeto, mas se caso ele não quiser ver essa parte, terá a opção de pular.
+
 **2.1 Funcionalidades principais** 
 
 * **Motor do jogo:**  
